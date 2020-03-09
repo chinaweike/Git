@@ -6,3 +6,4 @@ for added newfile 1 test.
 
 test remote servers.
 added first branch test.v1
+conflict from master.
